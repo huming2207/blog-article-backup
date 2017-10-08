@@ -17,7 +17,7 @@ I've got a modified AOSP (Mokee, ~50GB with repo cache) need to be transferred f
 
 After a quick Google, I've found a way to solve this issue by using WiFi to transfer. 
 
-Simply transfer the file with SCP/FTP is not fast enough. Here we use Tar to compress the data, then put it to SCP's pipe, and decompress the data on the target machine.
+Simply transfer the file with SCP/FTP is not fast enough as the source tree is way too large. Here we use GZip to compress the data, then put it to SCP's pipe, and decompress the data on the target machine.
 
 The command is:
 
