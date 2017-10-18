@@ -55,3 +55,22 @@ Download macOS SDK package from here: [https://github.com/phracker/MacOSX-SDKs/r
 
 Then unzip to `/Developer/SDKs`
 
+# Issue 3
+
+## Issue
+
+```
+**********************************************
+The boot animation could not be generated as
+ImageMagick is not installed in your system.
+
+Please install ImageMagick from this website:
+https://imagemagick.org/script/binary-releases.php
+**********************************************
+./vendor/mk/bootanimation/Android.mk:39: *** stop.
+```
+
+## Solution
+
+Install ImageMagick via brew: `brew install imagemagick`
+
