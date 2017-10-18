@@ -20,7 +20,7 @@ Recently I've started a kernel porting project for Xiaomi Mi 6, porting optimisa
 1. Install dependencies: `sudo apt install kernel-package git-core `
 
 2. Download the source: `git clone https://github.com/huming2207/Popkern-sagit.git`
-3. Toolchain setup: you can either try using Android perbuilt toolchains (may not work on my kernel project due to compiler argument in CFLAG is not supported), or build by your own with crosstool-ng
+3. Toolchain setup: you can either try using Android perbuilt toolchains (may not work on my kernel project due to compiler argument in `CFLAG` is not supported with GCC 4.9), or build by your own with crosstool-ng
 
 ## Compilation
 
