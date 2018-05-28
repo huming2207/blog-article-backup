@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jacksonhu.com/2017/10/18/Compile-Android-kernel-without-AOSP-buildroot-environment/</loc>
+    <loc>https://jacksonhu.com/about/index.html</loc>
     
-    <lastmod>2017-10-18T13:11:02.000Z</lastmod>
+    <lastmod>2018-05-28T05:13:40.290Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jacksonhu.com/2017/09/27/Dummy-page/</loc>
+    <loc>https://jacksonhu.com/2017/10/18/Compile-Android-kernel-without-AOSP-buildroot-environment/</loc>
     
     <lastmod>2017-10-18T13:11:02.000Z</lastmod>
     
@@ -23,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://jacksonhu.com/2017/10/08/transfer-huge-source-tree-via-scp/</loc>
+    <loc>https://jacksonhu.com/2017/09/27/Dummy-page/</loc>
     
     <lastmod>2017-10-18T13:11:02.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jacksonhu.com/about/index.html</loc>
+    <loc>https://jacksonhu.com/2017/10/08/transfer-huge-source-tree-via-scp/</loc>
     
     <lastmod>2017-10-18T13:11:02.000Z</lastmod>
     
