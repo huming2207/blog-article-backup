@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jacksonhu.com/"/>
-  <updated>2018-06-11T13:27:29.578Z</updated>
+  <updated>2018-06-11T13:30:15.774Z</updated>
   <id>https://jacksonhu.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://jacksonhu.com/2018/06/12/My-school-assignment-collections/"/>
     <id>https://jacksonhu.com/2018/06/12/My-school-assignment-collections/</id>
     <published>2018-06-11T14:02:01.000Z</published>
-    <updated>2018-06-11T13:27:29.578Z</updated>
+    <updated>2018-06-11T13:30:15.774Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Motivation"><a href="#Motivation" class="headerlink" title="Motivation"></a>Motivation</h2><p>I have started using GitHub when I was still a high school student. After I’ve enrolled into bachelor degree, I have applied a <a href="https://education.github.com/pack" target="_blank" rel="noopener">GitHub Student Pack</a> which allows me to use some advanced functions provided by GitHub like private repositories for free. Since then, some of the assignments were kept in GitHub private repo for syncing and backup purposes between my laptops and desktop PCs. The private repo function is great, it avoids me getting in some academic issues (i.e. someone may copy it and I don’t know).  But in the last internship information sessions held by our school, the coordinators encouraged us to publish our previous assignment to GitHub. I’ve also seen some of my local Australian mates are also publishing their assignments. So I think I’d better release my previous naive code to proof my learning steps anyway.</p><h2 id="The-plan"><a href="#The-plan" class="headerlink" title="The plan"></a>The plan</h2><ol><li>Only the previous assignments will be released. For example, I’m currently doing my Semester 2, Year 2 courses and I will only publish the assignment repos between Semester 1, Year 1 to Semester 1, Year 2.</li><li>Copyrighted course contents are not be included, i.e. no lecture slides, tutorial sheets, assignment specifications, marking guides etc. If you are the staffs/teachers from RMIT and there is any copyrighted contents, please contact me via my email. I will remove it ASAP.</li><li>I have no comment to my previous works. Some of the code are are very naive and stinky. I will not answer any questions/issues/PRs, if there is any. All repos mentioned below are marked as archived, i.e. read-only.</li></ol><h2 id="Assignments"><a href="#Assignments" class="headerlink" title="Assignments"></a>Assignments</h2><ul><li><p>Programming Technique - COSC1284</p><ul><li>Assignment 1: <a href="https://github.com/huming2207/ProgrammingTech-Assignment1" target="_blank" rel="noopener">huming2207/ProgrammingTech-Assignment1</a></li><li>Assignment 2: <a href="https://github.com/huming2207/ProgrammingTech-A2" target="_blank" rel="noopener">huming2207/ProgrammingTech-A2</a></li></ul></li><li><p>Advanced Programming Technique - COSC1076</p><ul><li>Assignment 1: <a href="https://github.com/huming2207/APTAssignmentOne" target="_blank" rel="noopener">huming2207/APTAssignmentOne</a></li><li>Assignment 2: <a href="https://github.com/huming2207/APTAssignment2" target="_blank" rel="noopener">huming2207/APTAssignment2</a></li></ul></li><li><p>Algorithm &amp; Analysis - COSC2123</p><ul><li>Assignment 1: <a href="https://github.com/huming2207/AA-Assignment1-Testers" target="_blank" rel="noopener">huming2207/AA-Assignment1-Testers</a></li><li>Assignment 2 - My original implementation: <a href="https://github.com/huming2207/AAAssignment2-myown" target="_blank" rel="noopener">huming2207/AAAssignment2-myown</a></li><li>Assignment 2: <a href="https://github.com/huming2207/AAAsssignment2" target="_blank" rel="noopener">huming2207/AAAsssignment2</a></li></ul></li><li><p>Operating System Principles - COSC1114</p><ul><li>Assignment 1 - Userspace syscall demo code: <a href="https://github.com/huming2207/OSP-Assignment1-Demo" target="_blank" rel="noopener">huming2207/OSP-Assignment1-Demo</a></li><li>Assignment 1 - Patched Linux kernel 4.12.4: <a href="https://github.com/huming2207/OSP-Assignment1-Patched-Kernel" target="_blank" rel="noopener">huming2207/OSP-Assignment1-Patched-Kernel</a></li><li>Assignment 2: <a href="https://github.com/huming2207/OSP-Assignment2" target="_blank" rel="noopener">huming2207/OSP-Assignment2</a></li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="Motivation"><a href="#Motivation" class="headerlink" title="Motivation"></a>Motivation</h2><p>I have started using GitHub when I was still a high school student. After I’ve enrolled into bachelor degree, I have applied a <a href="https://education.github.com/pack" target="_blank" rel="noopener">GitHub Student Pack</a> which allows me to use some advanced functions provided by GitHub like private repositories for free. Since then, some of the assignments were kept in GitHub private repo for syncing and backup purposes between my laptops and desktop PCs. The private repo function is great, it avoids me getting in some academic issues (i.e. someone may copy it and I don’t know).  But in the last internship information sessions held by our school, the coordinators encouraged us to publish our previous assignment to GitHub. I’ve also seen some of my local Australian mates are also publishing their assignments. So I think I’d better release my previous naive code to proof my learning steps anyway.</p><h2 id="The-plan"><a href="#The-plan" class="headerlink" title="The plan"></a>The plan</h2><ol><li>Only the previous assignments will be released. For example, I’m currently doing my Semester 2, Year 2 courses and I will only publish the assignment repos between Semester 1, Year 1 to Semester 1, Year 2.</li><li>Copyrighted course contents are not be included, i.e. no lecture slides, tutorial sheets, assignment specifications, marking guides etc. If you are the staffs/teachers from RMIT and there is any copyrighted contents, please contact me via my email. I will remove it ASAP.</li><li>I have no comment to my previous works. Some of the code are are very naive and stinky. All repos mentioned below are marked as archived, i.e. read-only.</li></ol><h2 id="Assignments"><a href="#Assignments" class="headerlink" title="Assignments"></a>Assignments</h2><ul><li><p>Programming Technique - COSC1284</p><ul><li>Assignment 1: <a href="https://github.com/huming2207/ProgrammingTech-Assignment1" target="_blank" rel="noopener">huming2207/ProgrammingTech-Assignment1</a></li><li>Assignment 2: <a href="https://github.com/huming2207/ProgrammingTech-A2" target="_blank" rel="noopener">huming2207/ProgrammingTech-A2</a></li></ul></li><li><p>Advanced Programming Technique - COSC1076</p><ul><li>Assignment 1: <a href="https://github.com/huming2207/APTAssignmentOne" target="_blank" rel="noopener">huming2207/APTAssignmentOne</a></li><li>Assignment 2: <a href="https://github.com/huming2207/APTAssignment2" target="_blank" rel="noopener">huming2207/APTAssignment2</a></li></ul></li><li><p>Algorithm &amp; Analysis - COSC2123</p><ul><li>Assignment 1: <a href="https://github.com/huming2207/AA-Assignment1-Testers" target="_blank" rel="noopener">huming2207/AA-Assignment1-Testers</a></li><li>Assignment 2 - My original implementation: <a href="https://github.com/huming2207/AAAssignment2-myown" target="_blank" rel="noopener">huming2207/AAAssignment2-myown</a></li><li>Assignment 2: <a href="https://github.com/huming2207/AAAsssignment2" target="_blank" rel="noopener">huming2207/AAAsssignment2</a></li></ul></li><li><p>Operating System Principles - COSC1114</p><ul><li>Assignment 1 - Userspace syscall demo code: <a href="https://github.com/huming2207/OSP-Assignment1-Demo" target="_blank" rel="noopener">huming2207/OSP-Assignment1-Demo</a></li><li>Assignment 1 - Patched Linux kernel 4.12.4: <a href="https://github.com/huming2207/OSP-Assignment1-Patched-Kernel" target="_blank" rel="noopener">huming2207/OSP-Assignment1-Patched-Kernel</a></li><li>Assignment 2: <a href="https://github.com/huming2207/OSP-Assignment2" target="_blank" rel="noopener">huming2207/OSP-Assignment2</a></li></ul></li></ul>]]></content>
     
     <summary type="html">
     
@@ -35,6 +35,8 @@
     </summary>
     
     
+      <category term="linux" scheme="https://jacksonhu.com/tags/linux/"/>
+    
       <category term="uni-life" scheme="https://jacksonhu.com/tags/uni-life/"/>
     
       <category term="assignment" scheme="https://jacksonhu.com/tags/assignment/"/>
@@ -42,8 +44,6 @@
       <category term="java" scheme="https://jacksonhu.com/tags/java/"/>
     
       <category term="c" scheme="https://jacksonhu.com/tags/c/"/>
-    
-      <category term="linux" scheme="https://jacksonhu.com/tags/linux/"/>
     
   </entry>
   
@@ -66,9 +66,9 @@
     </summary>
     
     
-      <category term="linux" scheme="https://jacksonhu.com/tags/linux/"/>
-    
       <category term="linux-kernel" scheme="https://jacksonhu.com/tags/linux-kernel/"/>
+    
+      <category term="linux" scheme="https://jacksonhu.com/tags/linux/"/>
     
       <category term="android" scheme="https://jacksonhu.com/tags/android/"/>
     
@@ -101,9 +101,9 @@
     </summary>
     
     
-      <category term="linux" scheme="https://jacksonhu.com/tags/linux/"/>
-    
       <category term="linux-kernel" scheme="https://jacksonhu.com/tags/linux-kernel/"/>
+    
+      <category term="linux" scheme="https://jacksonhu.com/tags/linux/"/>
     
       <category term="english-note" scheme="https://jacksonhu.com/tags/english-note/"/>
     
